@@ -1,0 +1,6 @@
+- app.js only works on a website
+    - clicking anything changes background color
+- play around with `document.querySelector` on `calmcode.io`:
+    - `document.querySelector('body > nav')`: get first `nav` element in body
+    - `document.querySelector('body > div')`: get first `div` element in body
+    - `document.querySelector('body > div > div > h1')`: get first `div` element in `body.div.div.h1`
